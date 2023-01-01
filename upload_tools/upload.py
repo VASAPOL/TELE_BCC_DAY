@@ -14,8 +14,7 @@ class display_feedback(QtWidgets.QWidget):
         #flash_reciver("/dev/tty.usbmodem4212401")
     def update_onscreen_data(self):
         progress_out = str(subprocess.run("cd upload_tools/upload_handler \n avrdude "+"-c arduino -P "+"/dev/tty.usbmodem4212401"+" -b 115200 -p atmega328p -D -U flash:w:"+"../reciver.hex", shell=True, capture_output=True))
-        self.displayfeedback.plainTextEdit.setPlainText(QtCore.QCoreApplication.translate("MainWindow", str(progress_out.find("flash verified"))))
-
+        self.displayfeedback.plainTextEdit.setPlainText(QtCore.QCoreApplication.translate("MainWindow", str(progress_out)))
 
 
 def run_command(command):
