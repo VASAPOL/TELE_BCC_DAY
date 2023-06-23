@@ -1,8 +1,9 @@
 # TELE_BCC_DAY (Discontinued)
 
-TELE_BCC_DAY is an application that was under development but has since been discontinued. It was intended to be a powerful tool designed to enhance communication and collaboration within teams and organizations. However, due to unforeseen circumstances, the development of TELE_BCC_DAY has been halted.
+TELE_BCC_DAY was an application under development that aimed to provide a powerful satellite telemetry system
+However, due to unforeseen circumstances, the development of TELE_BCC_DAY has been discontinued.
 
-Please note that TELE_BCC_DAY is no longer actively maintained or supported. While the features mentioned below were part of the initial development, the application is incomplete and may not function as intended.
+Please note that TELE_BCC_DAY is no longer actively maintained or supported. While the features mentioned below were part of the initial development, the application is incomplete and may not function as intended for satellite telemetry purposes.
 
 ## Repository Status
 
