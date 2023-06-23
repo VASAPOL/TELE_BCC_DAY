@@ -18,7 +18,7 @@ Although TELE_BCC_DAY is currently in development, you can contribute to its pro
 Clone the Repository: Start by cloning the TELE_BCC_DAY repository to your local machine using the following command:
 bash
 Copy code
-git clone https://github.com/VASAPOL/tele-bcc-day.git
+git clone https://github.com/VASAPOL/tele_bcc_day.git
 Install Dependencies: Navigate to the cloned repository and install the necessary dependencies using the package manager of your choice. For example:
 Copy code
 pipenv shell
