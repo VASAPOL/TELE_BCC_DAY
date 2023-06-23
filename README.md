@@ -1,4 +1,4 @@
-#TELE_BCC_DAY
+TELE_BCC_DAY
 
 TELE_BCC_DAY is an application currently under development. It is a powerful tool designed to enhance communication and collaboration within teams and organizations. With its innovative features and user-friendly interface, TELE_BCC_DAY aims to streamline communication processes and boost productivity.
 
