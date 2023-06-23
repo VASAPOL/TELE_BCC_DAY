@@ -1,35 +1,21 @@
-TELE_BCC_DAY
+# TELE_BCC_DAY (Discontinued)
 
-TELE_BCC_DAY is an application currently under development. It is a powerful tool designed to enhance communication and collaboration within teams and organizations. With its innovative features and user-friendly interface, TELE_BCC_DAY aims to streamline communication processes and boost productivity.
+TELE_BCC_DAY is an application that was under development but has since been discontinued. It was intended to be a powerful tool designed to enhance communication and collaboration within teams and organizations. However, due to unforeseen circumstances, the development of TELE_BCC_DAY has been halted.
 
-Features (Work in Progress)
+Please note that TELE_BCC_DAY is no longer actively maintained or supported. While the features mentioned below were part of the initial development, the application is incomplete and may not function as intended.
 
-Real-time Messaging: Stay connected with your team members through instant messaging. Exchange messages, share files, and collaborate seamlessly.
-Team Channels: Create dedicated channels for specific teams or projects. Discuss ideas, share updates, and keep everyone informed in a focused environment.
-Voice and Video Calls: Initiate high-quality voice and video calls with your colleagues. Have face-to-face discussions, conduct meetings, and resolve issues effectively.
-Screen Sharing: Share your screen with others during calls or presentations. Showcase your work, provide guidance, and collaborate visually.
-File Sharing: Easily share files, documents, and media with your team members. Keep all relevant resources in one place for easy access and collaboration.
-Notifications: Stay updated with real-time notifications for messages, mentions, and activities happening within your team.
-Search Functionality: Effortlessly find past messages, files, and conversations using the powerful search feature. Quickly retrieve important information when you need it.
-Getting Started
+## Repository Status
 
-Although TELE_BCC_DAY is currently in development, you can contribute to its progress by following these steps:
+The TELE_BCC_DAY repository is available on GitHub, but please be aware that it is no longer actively developed or maintained. You may still explore the codebase, but be mindful that the application is not in a fully functional state.
 
-Clone the Repository: Start by cloning the TELE_BCC_DAY repository to your local machine using the following command:
-bash
-Copy code
-git clone https://github.com/VASAPOL/tele_bcc_day.git
-Install Dependencies: Navigate to the cloned repository and install the necessary dependencies using the package manager of your choice. For example:
-Copy code
-pipenv shell
-Run the Application: Once the dependencies are installed, you can run the application locally using the provided development scripts. 
-python3 main.py
+## Acknowledgements
 
-Contribute: Explore the codebase, identify areas of improvement, and contribute to the project by fixing bugs, implementing new features, or improving existing functionality.
-Submit Pull Requests: Once you have made your changes, submit a pull request to the main repository. The project maintainers will review your contribution and merge it if it meets the project's standards.
-Join the Community: Engage with other contributors, ask questions, and participate in discussions. Together, we can make TELE_BCC_DAY an outstanding communication tool!
-Please note that since TELE_BCC_DAY is currently under development, there might be incomplete or unstable features. Contributions are highly appreciated to help shape the application into a robust and reliable tool.
+We would like to express our appreciation to all the contributors who dedicated their time and efforts to the development of TELE_BCC_DAY. Your contributions were valuable, and we apologize for any inconvenience caused by the discontinuation of the project.
 
-Support and Feedback
+## Support and Feedback
 
-If you encounter any issues or have suggestions for improving TELE_BCC_DAY, please open an issue in the GitHub repository. We welcome your feedback and will work towards resolving any reported problems.
+As TELE_BCC_DAY is no longer actively maintained, we regret to inform you that we cannot provide support or address any issues that may arise from using the application. We apologize for any inconvenience this may cause.
+
+## Conclusion
+
+We regret to inform you that TELE_BCC_DAY has been discontinued. We appreciate your interest in the application and apologize for any inconvenience caused. If you have any further questions or concerns, please feel free to reach out to us.
